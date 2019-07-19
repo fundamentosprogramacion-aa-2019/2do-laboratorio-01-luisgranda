@@ -3,7 +3,7 @@ Laboratorio del segundo bimestre
 
 	- El trabajo debe ser realizado en lenguaje de programación Java.
 	- Se debe crear un solo proyecto en el editor Netbeans. 
-	- Se debe crear un paquete por cada ejercicio
+	- Se debe crear un paquete por cada ejercicio.
 
 ### Fecha de presentación: 21/07/2019: 14h00
 
@@ -98,6 +98,6 @@ Ciudad:
 	- Presentar el promedio de edades de los jefes de los 8 departamentos municipales
 
 ## Nota:
-	- Si necesita clases auxiliares, las puede crear
+	- Si necesita clases auxiliares, las puede crear.
 	
 	 
